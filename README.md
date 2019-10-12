@@ -2,6 +2,11 @@
 
 repository under construction
 
-task is to make hierarchical pure attention model for few shot classification
+task is 
+
+1) hierarchical pure attention model for few shot classification
+2) all done on colab
+3) dataset - cifar10
+
 
 pull requests are welcome
